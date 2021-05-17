@@ -1,0 +1,19 @@
+{
+  "name": "tiny-nuxt",
+  "version": "0.0.1",
+  "description": "A lightweight Nuxt boilerplate!",
+  "main": "index.js",
+  "repository": "https://github.com/briceduke/tiny-nuxt",
+  "author": "Brice Duke",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.15.6"
+  }
+}
