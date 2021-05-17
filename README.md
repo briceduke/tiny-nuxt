@@ -28,7 +28,7 @@ yarn dev
 
 👤 **Brice Duke**
 
-- Website: briceduke.tech
+- Website: https://briceduke.tech
 - Github: [@briceduke](https://github.com/briceduke)
 
 ## 🤝 Contributing
